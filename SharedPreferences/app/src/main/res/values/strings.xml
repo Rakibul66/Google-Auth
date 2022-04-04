@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="user_name">Roxy666</string>
+    <string name="user_password">roxygang3</string>
+    <string name="login_preference">com.gstdio71.sharedpreferences_login_preference</string>
+    <string name="login_status_preference">com.gstdio71.sharedpreferences_login_status_preference</string>
+
+</resources>
